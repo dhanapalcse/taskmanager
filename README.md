@@ -1,6 +1,6 @@
 # taskmanager
 
-Application used to make CURD operation with Tasks.
+Application used to make CURD operation with Tasks. This is updated version
 
 Create Task:
 -------------
